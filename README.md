@@ -5,21 +5,20 @@ The RetroMini is a GBA emulation clone console manufactured in China. This repo 
 
 Console Version: RETRO_MINI_V2.1 2017.11.3
 
-#PCB
+# PCB
 
 
 **PCB Front**
 
 <img src="images/pcb_front.jpg" alt="PCB Front" style="width: 400px;"/>
 
-
 **PCB Back**
 
 <img src="images/pcb_back.jpg" alt="PCB Back" style="width: 400px;"/>
 
-#Chips
+# Chips
 
-##SOC
+## SOC
 
 **Ingenic JZ4725B**
 
@@ -27,14 +26,14 @@ Console Version: RETRO_MINI_V2.1 2017.11.3
 
 <img src="images/soc.jpg" alt="Hynix HY27UF082G2B" style="width: 400px;"/>
 
-##RAM
+## RAM
 **32x16SDRAM**
 
 64MB Generic SDRAM
 
 <img src="images/sdram.jpg" alt="Hynix HY27UF082G2B" style="width: 400px;"/>
 
-##Memory
+## Memory
 
 **Hynix HY27UF082G2B**
 
